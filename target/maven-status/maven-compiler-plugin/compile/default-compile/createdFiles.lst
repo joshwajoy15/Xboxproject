@@ -1,0 +1,5 @@
+com/xbox/qa/pages/HomePage.class
+com/xbox/qa/base/XboxTest2.class
+com/xbox/qa/base/XboxTest.class
+com/xbox/qa/pages/LeaderboardPage.class
+com/xbox/qa/base/TestBase.class
